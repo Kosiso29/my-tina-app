@@ -56,7 +56,7 @@ const schema = defineSchema({
 export const config = defineConfig({
   clientId: "423e7c64-2f6a-4012-b977-097d95e5f107",
   branch: "main",
-  token: "d9342617e4beb07a9ac9c05461756ddf94418806",
+  token: "f19d578a0c89cbe6d4418dc3a1ac691a732ab44b",
   media: {
     // If you wanted cloudinary do this
     // loadCustomStore: async () => {
